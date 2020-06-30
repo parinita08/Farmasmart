@@ -12,7 +12,7 @@ A web based application to provide a dedicated platform for the farmers to displ
 ![Farmer's profile](https://user-images.githubusercontent.com/57519879/86122490-8f2bfd00-baf5-11ea-8b19-7ec7fd0f62ac.PNG)
 
 
-
+### Wholesaler's profile
 ![Wholesaler's profile](https://user-images.githubusercontent.com/57519879/86122577-b1257f80-baf5-11ea-84b5-596f6ac0da33.PNG)
 
 
