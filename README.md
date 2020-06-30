@@ -16,5 +16,5 @@ A web based application to provide a dedicated platform for the farmers to displ
 ![Wholesaler's profile](https://user-images.githubusercontent.com/57519879/86122577-b1257f80-baf5-11ea-84b5-596f6ac0da33.PNG)
 
 
-
+### Donator's profile
 ![Donator's profile](https://user-images.githubusercontent.com/57519879/86122659-d3b79880-baf5-11ea-9875-58f273b8bfa1.PNG)
